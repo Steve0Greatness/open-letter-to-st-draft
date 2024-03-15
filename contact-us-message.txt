@@ -1,3 +1,6 @@
+subject: Information request on the blockage of Scratch Auth
+topic: Question about notification or blocked account > The account belongs to someone else
+
 Hey there! I was requested to ask about the blockage of the projects 676911023, 706331591, and 728098174 via Contact Us(here) by Paddle2See(https://scratch.mit.edu/discuss/post/7864011/).
 
 I was wondering if there is a listed reason for these projects' removals, or if they could be manually reviewed to check for material that could be offending.
